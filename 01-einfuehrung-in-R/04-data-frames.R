@@ -1,4 +1,6 @@
 # this is a comment
+# display help for datasets
+# ?mtcars
 
 # load mtcars data
 data("mtcars")
